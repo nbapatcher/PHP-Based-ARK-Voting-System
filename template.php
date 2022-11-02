@@ -14,7 +14,6 @@
 		echo 'Reward Claimed/Vote Again';
 	}
 	//Will display a URL redirecting client to the voting website.
-	else {
 		echo '<a href="' . $voteurl . '">Vote Now</a>';
 	}
 ?>
