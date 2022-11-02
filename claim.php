@@ -4,7 +4,7 @@
     //Sets Var Based off of post.
     $steamid = $_POST['steamid'];
 
-    //Sets Var for posted website
+    //Sets Var for posted website 
     $site = $_POST['site'];
 
     //This will re-process the status of voting incase form was manipulated through inspect or other browser manipulation.
