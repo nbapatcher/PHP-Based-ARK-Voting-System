@@ -12,5 +12,5 @@ Logged in as
 
 	//This provides support for additional websites
 	$site = "Ark-Servers.net";
-	include 'form.php';
+	include 'form.php'; 
 ?>
