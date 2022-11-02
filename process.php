@@ -8,7 +8,7 @@
 		3 (optional) - Track processed reward.
 		4 - Redirect to a result page
 	*/	
-//Settings//
+//Settings// 
 
     //Set Minimum Points that will be given per vote.
     $minpoints = 1000;
