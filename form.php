@@ -4,7 +4,7 @@
 		0 = No Registered Vote (See Note)
 		1 = Registered Vote and Reward Pending
 		2 = Vote was Registered and Reward Delivered
-		* Status 2 will stay in effect until the status is changed to a 1 *
+		* Status 2 will stay in effect until the status is changed to a 1 * 
 		*/
 	//Example if voting is displayed as a json
 	if($site == "TopArkServers.com"){
